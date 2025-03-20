@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Death Countdown",
+    "version": "1.0",
+    "description": "Shows countdown timer for the death year.",
+    "permissions": [
+      "storage"
+    ],
+    "background": {
+    },
+    "chrome_url_overrides": {
+      "newtab": "index.html"
+    }
+  }
+  
